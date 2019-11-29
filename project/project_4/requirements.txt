@@ -1,0 +1,16 @@
+alphalens
+colour
+cvxpy
+cycler
+numpy
+pandas
+plotly
+pyparsing
+python-dateutil
+pytz
+requests
+scipy
+scikit-learn==0.19.1
+six
+tqdm
+zipline
